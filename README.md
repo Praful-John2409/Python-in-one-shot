@@ -62,12 +62,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Praful-John2409/python-in-one-shot/blob/main/LICENSE) file for more details.
-
----
-
 ### Author
 
 **Praful John**
